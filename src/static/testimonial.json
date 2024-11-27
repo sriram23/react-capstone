@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "rating": 5,
+      "avatar": "https://xsgames.co/randomusers/avatar.php?g=male",
+      "name": "John Doe",
+      "comment": "This restaurant is amazing! The food is delicious and the service is top-notch."
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "avatar": "https://xsgames.co/randomusers/avatar.php?g=female",
+      "name": "Jane Doe",
+      "comment": "I had a great experience at this restaurant. The food was tasty and the atmosphere was cozy."
+    },
+    {
+      "id": 3,
+      "rating": 5,
+      "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel",
+      "name": "Bob Smith",
+      "comment": "This restaurant is my new favorite! The staff is friendly and the food is always fresh."
+    },
+    {
+      "id": 4,
+      "rating": 4,
+      "avatar": "https://api.multiavatar.com/kathrin.svg",
+      "name": "Alice Johnson",
+      "comment": "I was impressed by the quality of the food and the service at this restaurant. I will definitely be back!"
+    }
+  ]
