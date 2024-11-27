@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "dish": "Grilled Chicken",
+    "price": 699,
+    "description": "Grilled chicken breast served with roasted vegetables",
+    "image": "https://www.allrecipes.com/thmb/63Xg9YuEJCfuAKj99tMblgLhPgI=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/16160-juicy-grilled-chicken-breasts-ddmfs-5594-hero-3x4-902673c819994c0191442304b40104af.jpg"
+  },
+  {
+    "id": 2,
+    "dish": "Pan-Seared Salmon",
+    "price": 899,
+    "description": "Pan-seared salmon fillet served with quinoa and steamed broccoli",
+    "image": "https://static01.nyt.com/images/2024/02/13/multimedia/LH-pan-seared-salmon-lwzt/LH-pan-seared-salmon-lwzt-master768.jpg?quality=75&auto=webp"
+  },
+  {
+    "id": 3,
+    "dish": "Vegetarian Burger",
+    "price": 599,
+    "description": "Vegetarian burger patty served with sweet potato fries",
+    "image": "https://www.foodandwine.com/thmb/_hz1-1jxHmNJxNLZxIjlOs2QQ3E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg"
+  },
+  {
+    "id": 4,
+    "dish": "Chicken Fettuccine",
+    "price": 699,
+    "description": "Fettuccine pasta tossed in creamy chicken sauce",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/delish-221130-perfect-chicken-alfredo-0689-eb-1670449996.jpg?crop=1.00xw:0.738xh;0,0.133xh&resize=1200:*"
+  },
+  {
+    "id": 5,
+    "dish": "Roasted Vegetable Salad",
+    "price": 799,
+    "description": "Mixed greens salad with grilled eggplant, zucchini, bell peppers, and hummus",
+    "image": "https://somethingaboutsandwiches.com/wp-content/uploads/2020/11/roasted-vegetable-salad-866x1024.jpg"
+  },
+  {
+    "id": 6,
+    "dish": "Lemon Herb Rice Bowl",
+    "price": 599,
+    "description": "Fluffy rice bowl with lemon-infused herb sauce, roasted cauliflower, and cherry tomatoes",
+    "image": "https://sweetpeasandsaffron.com/wp-content/uploads/2018/06/lemon-rice-4.jpg"
+  },
+  {
+    "id": 7,
+    "dish": "Spicy Lentil Curry",
+    "price": 499,
+    "description": "Spicy red lentil curry with coconut milk and crispy onions",
+    "image": "https://frommybowl.com/wp-content/uploads/2019/10/Creamy_Coconut_Red_Lentil_Curry_FromMyBowl_Vegan-7-768x1152.jpg"
+  },
+  {
+    "id": 8,
+    "dish": "Mango Lassi",
+    "price": 299,
+    "description": "Creamy mango smoothie with yogurt and cardamom",
+    "image": "https://www.whiskaffair.com/wp-content/uploads/2020/05/Mango-Lassi-2-1.jpg"
+  },
+  {
+    "id": 9,
+    "dish": "Chicken Tikka Masala",
+    "price": 799,
+    "description": "Marinated chicken cooked in creamy tomato sauce with basmati rice",
+    "image": "https://www.seriouseats.com/thmb/AKv7r-Xt2anoVvsn0WpLqUehNzU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG"
+  },
+  {
+    "id": 10,
+    "dish": "Palak Paneer",
+    "price": 699,
+    "description": "Spinach and paneer cheese curry with garlic naan bread",
+    "image": "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-1.jpg"
+  },
+  {
+    "id": 11,
+    "dish": "Samosas",
+    "price": 50,
+    "description": "Crispy fried or baked pastry filled with spiced potatoes and peas",
+    "image": "https://paattiskitchen.com/wp-content/uploads/2023/03/kmc_20230226_234026-1024x576.jpg"
+  },
+  {
+    "id": 12,
+    "dish": "Raj Kachori",
+    "price": 150,
+    "description": "Crispy fried bread filled with spiced potatoes, onions, and chickpeas",
+    "image": "https://indiasweethouse.in/cdn/shop/files/RajKachori.png?v=1718889710&width=9900"
+  },
+  {
+    "id": 13,
+    "dish": "Malai Kofta",
+    "price": 250,
+    "description": "Creamy kofta curry with marinated vegetables and basmati rice",
+    "image": "https://productimages.withfloats.com/actual/5c46bf3721c4680001f3ed87.jpg"
+  },
+  {
+    "id": 14,
+    "dish": "Baingan Bharta",
+    "price": 275,
+    "description": "Roasted eggplant mash with onions, garlic, and spices",
+    "image": "https://www.foodandwine.com/thmb/MYgoqOeuRLGSoLi-Cemqg9iiDaA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Baingan-Bharta-Eggplant-Curry-FT-MAG-RECIPE-0924-c2c42c1dbcbe4c4ab07086787ae813ae.jpg"
+  },
+  {
+    "id": 15,
+    "dish": "Gulab Jamun",
+    "price": 350,
+    "description": "Deep-fried dumplings soaked in rose syrup and cardamom",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2018/09/Gulab-Jamun-Indian-Sweet.jpg"
+  }
+]
