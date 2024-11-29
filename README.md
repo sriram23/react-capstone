@@ -2,6 +2,8 @@
 
 Welcome to the **Little Lemon Restaurant** website! This project is an educational and experimental web application built using **React.js** and styled with **vanilla CSS**. It includes two main pages: a landing page and a reservation page, designed to offer a smooth user experience for restaurant visitors.
 
+You can view the live website here: [Little Lemon Restaurant](https://little-lemon-ten-bay.vercel.app/)
+
 ## Features
 
 - **Landing Page**: A welcoming page showcasing the restaurant's details, including the menu, location, and ambiance.
