@@ -34,6 +34,7 @@ function Footer() {
           </ul>
         </div>
       </div>
+      ©️ All rights reserved 2024. Developed by <a href='https://github.com/sriram23'>Sriram</a>. This is for educational purpose only.
     </div>
   );
 }

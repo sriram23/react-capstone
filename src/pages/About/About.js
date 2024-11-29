@@ -1,6 +1,6 @@
 import React from 'react';
-import CHEF from '../assets/chef.png'
-import DISH from '../assets/dish.png'
+import CHEF from '../../assets/chef.png'
+import DISH from '../../assets/dish.png'
 import "./About.css"
 function About() {
   return (

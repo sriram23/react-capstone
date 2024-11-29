@@ -1,9 +1,9 @@
 import React from "react";
-import menuData from "../static/menus.json";
-import testimonial from "../static/testimonial.json"
+import menuData from "../../static/menus.json";
+import testimonial from "../../static/testimonial.json"
 import "./Menu.css";
-import MenuCard from "../components/MenuCard/MenuCard";
-import Testimonial from "../components/Testimonial/Testimonial";
+import MenuCard from "../../components/MenuCard/MenuCard";
+import Testimonial from "../../components/Testimonial/Testimonial";
 
 function Menu() {
   return (

@@ -1,6 +1,10 @@
+import ReservationComponent from "../components/Reservation/ReservationComponent"
+
 const Reservation = () => {
     return (
-        <h1>Reservation</h1>
+        <div>
+            <ReservationComponent/>
+        </div>
     )
 }
 

@@ -24,17 +24,17 @@ function Header() {
               </NavLink>
             </li>
             <li>
-              <NavLink to="/" activeClassName="active">
+              <NavLink to="/#menu" activeClassName="active">
                 Order Online
               </NavLink>
             </li>
             <li>
-              <NavLink to="/" activeClassName="active">
+              <NavLink to="/#menu" activeClassName="active">
                 Menu
               </NavLink>
             </li>
             <li>
-              <NavLink to="/" activeClassName="active">
+              <NavLink to="/#about" activeClassName="active">
                 About
               </NavLink>
             </li>
