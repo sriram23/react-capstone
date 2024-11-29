@@ -1,18 +1,13 @@
 import React from 'react';
-import logo from '../../assets/logo.png'; // replace with your logo image
 import { NavLink } from 'react-router-dom';
-import './Header.css'
 
-function Header() {
+import "./MobileHeader.css"
+
+const MobileHeader = () => {
   return (
-    <header>
-      <div className="header-container">
-        <NavLink to="/" className="logo">
-          <img src={logo} alt="Logo" />
-          <h1>Little Lemon</h1>
-        </NavLink>
-        <nav className="navbar">
-          <ul>
+    <div className="mobile-header">
+      <nav className="mobile-nav">
+      <ul>
             <li>
               <NavLink to="/" activeClassName="active">
                 Home
@@ -39,10 +34,9 @@ function Header() {
               </NavLink>
             </li>
           </ul>
-        </nav>
-      </div>
-    </header>
+      </nav>
+    </div>
   );
-}
+};
 
-export default Header;
+export default MobileHeader;

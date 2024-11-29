@@ -1,30 +1,58 @@
 [
-    {
-      "id": 1,
-      "rating": 5,
-      "avatar": "https://xsgames.co/randomusers/avatar.php?g=male",
-      "name": "John Doe",
-      "comment": "This restaurant is amazing! The food is delicious and the service is top-notch."
-    },
-    {
-      "id": 2,
-      "rating": 4,
-      "avatar": "https://xsgames.co/randomusers/avatar.php?g=female",
-      "name": "Jane Doe",
-      "comment": "I had a great experience at this restaurant. The food was tasty and the atmosphere was cozy."
-    },
-    {
-      "id": 3,
-      "rating": 5,
-      "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel",
-      "name": "Bob Smith",
-      "comment": "This restaurant is my new favorite! The staff is friendly and the food is always fresh."
-    },
-    {
-      "id": 4,
-      "rating": 4,
-      "avatar": "https://api.multiavatar.com/kathrin.svg",
-      "name": "Alice Johnson",
-      "comment": "I was impressed by the quality of the food and the service at this restaurant. I will definitely be back!"
-    }
-  ]
+  {
+    "id": 1,
+    "rating": 5,
+    "avatar": "https://xsgames.co/randomusers/avatar.php?g=male",
+    "name": "John Doe",
+    "comment": "This restaurant is amazing! The food is delicious and the service is top-notch."
+  },
+  {
+    "id": 2,
+    "rating": 4,
+    "avatar": "https://xsgames.co/randomusers/avatar.php?g=female",
+    "name": "Jane Doe",
+    "comment": "I had a great experience at this restaurant. The food was tasty and the atmosphere was cozy."
+  },
+  {
+    "id": 3,
+    "rating": 5,
+    "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel",
+    "name": "Bob Smith",
+    "comment": "This restaurant is my new favorite! The staff is friendly and the food is always fresh."
+  },
+  {
+    "id": 4,
+    "rating": 4,
+    "avatar": "https://api.multiavatar.com/kathrin.svg",
+    "name": "Alice Johnson",
+    "comment": "I was impressed by the quality of the food and the service at this restaurant. I will definitely be back!"
+  },
+  {
+    "id": 5,
+    "rating": 3,
+    "avatar": "https://api.multiavatar.com/b217101a13c5983992.png",
+    "name": "Tom Wilson",
+    "comment": "The food was good, but the wait time was longer than expected. Could improve service speed."
+  },
+  {
+    "id": 6,
+    "rating": 5,
+    "avatar": "https://api.multiavatar.com/9b3f5bbb5c57b97826.png",
+    "name": "Emma Brown",
+    "comment": "Absolutely loved the ambiance and the food! A great place for family dinners."
+  },
+  {
+    "id": 7,
+    "rating": 4,
+    "avatar": "https://api.multiavatar.com/852f545ea7e9a8f195.png",
+    "name": "Liam Davis",
+    "comment": "The desserts are a must-try! The staff was welcoming, and the food was flavorful."
+  },
+  {
+    "id": 8,
+    "rating": 2,
+    "avatar": "https://api.multiavatar.com/oliver.svg",
+    "name": "Sophia Martin",
+    "comment": "The food was average, and the place was a bit too crowded. Hope for better next time."
+  }
+]

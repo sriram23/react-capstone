@@ -5,6 +5,7 @@ import Reservation from './pages/Reservation';
 import Header from './components/Header/Header';
 import './App.css'
 import Footer from './components/Footer/Footer';
+import MobileHeader from './components/MobileHeader/MobileHeader';
 
 const router = createBrowserRouter([
   {
@@ -13,6 +14,7 @@ const router = createBrowserRouter([
       <div className='header'><Header/></div>
       <Outlet />
       <Footer/>
+      <div className='mobile-header'><MobileHeader/></div>
       </div>),
       children: [
         {

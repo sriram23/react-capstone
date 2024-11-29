@@ -43,3 +43,21 @@
   .footer-column a:hover {
     color: #ccc;
   }
+
+  .copyright {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #F4F4F4;
+  }
+
+  .copyright a {
+    color: inherit;
+  }
+
+  @media screen and (max-width: 768px) {
+    .footer-grid {
+        grid-template-columns: 1fr;
+    }
+  }

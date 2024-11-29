@@ -22,7 +22,7 @@ function Menu() {
           />
         ))}
       </div>
-      <hr></hr>
+      <div className="testimonial-container">
       <div className="menu-header">
         <h1>Testimonials</h1>
       </div>
@@ -32,6 +32,7 @@ function Menu() {
                 <Testimonial rating={item.rating} name={item.name} avatar={item.avatar} comment={item.comment}/>
             </div>
         ))}
+      </div>
       </div>
     </div>
   );

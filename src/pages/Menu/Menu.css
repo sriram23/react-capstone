@@ -1,5 +1,11 @@
+.testimonial-container {
+  width: 100%;
+  background: #FAFAFA;
+  min-height: 100vh;
+}
 .menu-container {
-    padding: 100px;
+    background: #F5F5F5;
+    margin: 0;
   }
   
   .menu-header {
@@ -28,6 +34,8 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    /* border: 2px solid red; */
+    padding-bottom: 100px;
   }
   
   .menu-item {

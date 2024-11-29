@@ -11,6 +11,8 @@
     display: flex;
     align-items: center;
     margin-right: 20px;
+    text-decoration: none;
+    color: #fff;
   }
   
   .logo img {
@@ -41,4 +43,13 @@
   
   .navbar a:hover {
     color: #ccc;
+  }
+
+  @media screen and (max-width: 768px) {
+    .header-container {
+      justify-content: center;
+    }
+    .navbar {
+      display: none;
+    }
   }

@@ -3,7 +3,8 @@
     justify-content: space-between;
     align-items: center;
     padding: 100px;
-    background-color: #f7f7f7;
+    background-color: #F8F9FA;
+    min-height: 100vh;
   }
   
   .hero-left {
@@ -12,15 +13,17 @@
   }
   
   .hero-left h1 {
-    font-size: 36px;
+    font-size: 3rem;
     font-weight: bold;
     margin-bottom: 10px;
+    color: #FFC107;
   }
   
   .hero-left h2 {
-    font-size: 24px;
+    font-size: 2rem;
     font-weight: bold;
     margin-bottom: 20px;
+    color: #2E7D32;
   }
   
   .hero-left p {
@@ -59,4 +62,14 @@
   
   .hero-image:hover {
     transform: scale(1.05);
+  }
+
+  @media screen and (max-width: 768px){
+    .hero-container {
+      flex-direction: column;
+    }
+    .hero-left, .hero-right {
+      flex: 1;
+      width: 100%;
+    }
   }
