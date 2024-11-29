@@ -3,12 +3,17 @@ import { createBrowserRouter, Outlet, RouterProvider } from 'react-router-dom';
 import Home from './pages/Home';
 import Reservation from './pages/Reservation';
 import Header from './components/Header/Header';
+import './App.css'
+import Footer from './components/Footer/Footer';
 
 const router = createBrowserRouter([
   {
     path: '/',
-    element: (<div><Header/>
-      <Outlet></Outlet></div>),
+    element: (<div>
+      <div className='header'><Header/></div>
+      <Outlet />
+      <Footer/>
+      </div>),
       children: [
         {
           path: "/",

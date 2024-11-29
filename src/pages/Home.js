@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import HERO_IMAGE from '../assets/hero.png'
 import "./Home.css"
 import Menu from './Menu';
+import About from './About';
 
 function Home() {
   return (
@@ -21,6 +22,7 @@ function Home() {
         </div>
       </div>
       <Menu/>
+      <About/>
     </div>
   );
 }
